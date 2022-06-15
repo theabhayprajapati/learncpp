@@ -10,7 +10,6 @@ int main(int argc, char const *argv[])
     std::cout << "Hello, World!" << std::endl;
     int first {1};
     int second {2};
-    int sum = add(1, 2);
-    std::cout << sum << std::endl;
+    std::cout << "the sum is for 12, 12 " << add(12, 12) << std::endl;
     return 0;
 }
