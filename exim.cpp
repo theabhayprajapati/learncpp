@@ -5,7 +5,7 @@
 
 int main(int argc, char const *argv[])
 {
-    std::cout << "Hello, World!" << std::endl;
+    std::cout << "Hell o, World!" << std::endl;
     std::cerr << "you are caught " << std::endl;
     std::clog << "your logs" << std::endl;
     std::cout << "enter your name" << std::endl;
